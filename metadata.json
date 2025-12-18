@@ -1,0 +1,7 @@
+{
+  "name": "Bridge: Peaceful Communication Assistant",
+  "description": "An AI-powered intermediary designed to facilitate healthy communication, track speaking time/word counts, analyze language patterns (I vs You), and provide biblical guidance to prevent verbal overwhelm.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
